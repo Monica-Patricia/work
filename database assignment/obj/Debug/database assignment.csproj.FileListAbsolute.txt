@@ -1,0 +1,15 @@
+C:\Users\n0875955\source\repos\database assignment\database assignment\bin\Debug\database assignment.exe.config
+C:\Users\n0875955\source\repos\database assignment\database assignment\bin\Debug\database assignment.exe
+C:\Users\n0875955\source\repos\database assignment\database assignment\bin\Debug\database assignment.pdb
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database assignment.csprojAssemblyReference.cache
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database_assignment.chartScreen.resources
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database_assignment.Form1.resources
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database_assignment.Properties.Resources.resources
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database_assignment.searchScreen.resources
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database_assignment.stockScreen.resources
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database assignment.csproj.GenerateResource.cache
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database assignment.csproj.CoreCompileInputs.cache
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database assignment.exe
+C:\Users\n0875955\source\repos\database assignment\database assignment\obj\Debug\database assignment.pdb
+C:\Users\n0875955\source\repos\database assignment\database assignment\bin\Debug\ShoeDatabase.mdf
+C:\Users\n0875955\source\repos\database assignment\database assignment\bin\Debug\ShoeDatabase_log.ldf
